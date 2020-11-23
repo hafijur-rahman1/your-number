@@ -1,0 +1,26 @@
+body {
+    background-color:#1094e0;
+    /* height: 100vh; */
+}
+.container{
+    padding: 25px 25px 25px;
+    height: 400px;
+    background-color: #c95e5ed2;
+    border-radius: 5px;
+    margin-top: 20px ;
+    margin-bottom: 30px;
+}
+.notify{
+    
+    font-size: 80px;
+    border-radius: 5px;
+    background-color: #756767;
+}
+.btn{
+    font-size: 20px;
+    width: 110px;
+    color: white;
+    background-color: rgb(236, 11, 11);
+    
+    box-shadow: 2px 3px 6px rgb(67, 21, 194);
+}
